@@ -120,10 +120,10 @@ input:hover {
 }
 
 textarea {
-  width: 470px;
+ /* width: 470px;
   max-width: 470px;
   height: 110px;
-  max-height: 110px;
+  max-height: 110px;*/
   padding: 15px;
   
   background: transparent;
@@ -139,6 +139,11 @@ textarea {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
+	
+ -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+			width:100%;
 }
 
 textarea:hover {
