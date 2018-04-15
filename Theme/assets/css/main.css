@@ -270,7 +270,8 @@ a:after {
 }
 
 .desc t {
-	color: #34495e;
+	/*color: #34495e;*/
+	color: #ac3b61;
 	font-weight: 700;
 }
 
