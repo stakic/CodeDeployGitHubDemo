@@ -191,7 +191,8 @@ a:after {
 /* Intnro Wrap */
 
 #intro {
-	background: #2c3e50;
+	/*background: #2c3e50;*/
+	background:#bab2b5;
 	padding-top: 60px;
 	padding-bottom: 60px;
 	color: white;
