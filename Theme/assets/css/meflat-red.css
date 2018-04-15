@@ -285,7 +285,8 @@ a:focus,
 }
 
 #main-nav.scrolled .nav a{
-    color:inherit;
+   /* color:inherit;*/
+   color: #ac3b61;
 }
 
 #main-nav li{
