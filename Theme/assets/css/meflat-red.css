@@ -675,6 +675,7 @@ a:focus,
 	font-size:38px;
 	font-weight:300;
     z-index: 2;
+    color: #fff;
 }
 .percent:after {
   content: '%';
