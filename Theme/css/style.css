@@ -211,3 +211,9 @@ textarea{
     transition: all .3s ease-out;*/
 	margin:auto;
 }
+
+#imeprezime{
+	font-family: garamond;
+	font-size: x-large;
+	color: white;
+}
