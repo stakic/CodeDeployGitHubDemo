@@ -195,6 +195,13 @@ input[type=submit] {
  border: 1px solid #bbb;
  -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;
 }
+
+@media screen and (max-width: 400px) {
+    input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
 textarea{
   width:100%;
   -webkit-box-sizing: border-box;
